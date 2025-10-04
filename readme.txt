@@ -1,0 +1,1 @@
+smartphonedataplot.py is used to do data plot for smartphone_cleaned_v5.csv
